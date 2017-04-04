@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JadvalZarb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JadvalZarb_jar</output-path>
+    <root id="archive" name="JadvalZarb.jar">
+      <element id="module-output" name="JadvalZarb" />
+    </root>
+  </artifact>
+</component>
