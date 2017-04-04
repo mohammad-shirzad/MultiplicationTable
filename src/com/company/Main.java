@@ -31,7 +31,7 @@ public class Main {
                     int z = i * j;
                     if (z >= 100){
                         System.out.print(z+"    ");
-                    }else if (z>=10&&z<100){
+                    }else if (z>=10 && z<100){
                         System.out.print(z+"     ");
                     }else {
                         System.out.print(z+"      ");}
